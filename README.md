@@ -1,2 +1,0 @@
-# Snake
-The python codes

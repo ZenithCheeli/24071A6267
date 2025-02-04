@@ -1,0 +1,6 @@
+words = input("Enter upto 5 things: ")
+lst= words.split()
+list1 = list(set(lst))
+lst2 = list(dict.fromkeys(lst))
+print(list1)
+print(lst2)
